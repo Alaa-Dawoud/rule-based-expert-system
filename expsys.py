@@ -1,4 +1,3 @@
-# this code is done by fariq el-a7lam
 
 
 from datetime import datetime
